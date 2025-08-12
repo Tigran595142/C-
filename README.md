@@ -1,2 +1,2 @@
-# C# Codes, die ich mache
-Verschiedene Codes in C#
+# Java Programmen, die ich mache
+Verschiedene Programmen in Java
